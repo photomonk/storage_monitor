@@ -16,4 +16,4 @@ This script checks the available storage on your system and compares it to half 
 
 
 ## cron job 
-- you can make the cron job by **crontab -e** 
+- you can make the **cron job** "regullar interval jobs " by **crontab -e** 
