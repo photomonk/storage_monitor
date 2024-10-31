@@ -15,5 +15,5 @@ This script checks the available storage on your system and compares it to half 
 - **Warning Message**: If available storage is less than half of the total storage.
 
 
-##cron job 
-you can make the cron job by crontab -e 
+## cron job 
+- you can make the cron job by **crontab -e** 
